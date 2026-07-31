@@ -3,6 +3,7 @@
 <p align="center">
   <b>A complete collection of Data Structures & Algorithms programs implemented in C</b>
 </p>
+
 ---
 
 ## 📌 About This Repository
@@ -269,3 +270,16 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub.
 <p align="center">
   Made with ❤️ while learning Data Structures & Algorithms
 </p>
+---
+
+# 👩‍💻 Author
+
+**Jiya Vishwanath**
+
+- 🎓 BSc IT Student
+- 💻 Learning Data Structures & Algorithms using C
+- 🚀 Exploring Programming, Problem Solving & Software Development
+
+GitHub: [@Jiyavishwanath1708](https://github.com/Jiyavishwanath1708)
+
+---
