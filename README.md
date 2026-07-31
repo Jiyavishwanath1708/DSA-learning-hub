@@ -3,14 +3,6 @@
 <p align="center">
   <b>A complete collection of Data Structures & Algorithms programs implemented in C</b>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg">
-  <img src="https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-green.svg">
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange.svg">
-  <img src="https://img.shields.io/github/license/Jiyavishwanath1708/DSA-Learning-Hub">
-</p>
-
 ---
 
 ## 📌 About This Repository
@@ -260,23 +252,7 @@ Linux/Mac:
 * Practice C programming
 * Build strong programming foundations
 
----
 
-# 📈 Progress Tracker
-
-| Topic                     | Status      |
-| ------------------------- | ----------- |
-| Arrays                    | ✅ Completed |
-| Searching                 | ✅ Completed |
-| Sorting                   | 🔄 Learning |
-| Matrices                  | ✅ Completed |
-| Dynamic Memory Allocation | 🔄 Learning |
-| Stack & Queue             | 🔄 Learning |
-| Linked List               | 🔄 Learning |
-| Trees                     | 🔄 Learning |
-| Graphs                    | 🔄 Learning |
-
----
 
 # 🤝 Contribution
 
